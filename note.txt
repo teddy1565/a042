@@ -1,0 +1,8 @@
+n
+dist_num = 2n-1+2y+1 (2y=上下兩邊小區域)
+dist_num = 2n+2y
+2y = (n-1)*(n-2)
+dist_num = 2n+n^2-2n-1n+2
+dist_num = n^2-1n+2
+圈圈數：1   2   3   4   5
+上下區：0   0   2   6   12
